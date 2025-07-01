@@ -1,0 +1,2 @@
+mean_dice_ed_vl,Val_( endo_loss_ed),Val_ ( epi_loss_ed),Val_ ( la_loss_ed),mean_dice_es_vlVal_( endo_loss_es),Val_( epi_loss_es),Val_( la_loss_es)
+0.934,0.945,0.961,0.894,0.935,0.93,0.955,0.921
