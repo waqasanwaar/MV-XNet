@@ -1,7 +1,7 @@
 
 # Multi-View Fusion Network with Test Time Augmentation for Cardiac Image Segmentation and Ejection Fraction Estimation
 
-
+![Image](https://github.com/waqasanwaar/MV-XNet/blob/main/Methodology.png)
 This is the official pytorch implementation of our method. The full paper is available at: [Paper](https://www.sciencedirect.com/science/article/pii/S2590123025024831)
 
 
